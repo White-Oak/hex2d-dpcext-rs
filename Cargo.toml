@@ -17,4 +17,4 @@ path = "src/lib.rs"
 [dependencies]
 num = "0.1.2"
 rand = "0.3.7"
-hex2d = "0.1.0"
+hex2d = "1.1.0"
